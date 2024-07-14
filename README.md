@@ -5,7 +5,7 @@
 
 ## Overview
 
-This repository contains an implementation of the Swin Transformer network using TensorFlow. Swin Transformers are a type of Vision Transformer (ViT) that have demonstrated strong performance on various computer vision tasks, particularly for hierarchical image representation.
+This repository contains an implementation of the Swin Transformer (first version) network using TensorFlow. Swin Transformers are a type of Vision Transformer (ViT) that have demonstrated strong performance on various computer vision tasks, particularly for hierarchical image representation.
 
 ## Table of Contents
 
