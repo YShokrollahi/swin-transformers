@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Overview
-##swinv2 and implementaion
+##swin-v2 and implementaion
 
 This repository contains an implementation of the Swin Transformer (first version) network using TensorFlow. Swin Transformers are a type of Vision Transformer (ViT) that have demonstrated strong performance on various computer vision tasks, particularly for hierarchical image representation.
 
