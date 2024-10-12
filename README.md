@@ -16,7 +16,7 @@ This repository contains an implementation of the Swin Transformer (first versio
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-## Installation
+## Installation and use the code
 
 To get started with the Swin Transformers, clone this repository and install the necessary dependencies:
 
